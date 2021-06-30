@@ -19,3 +19,7 @@ Refer to the [Documentation](http://login2explore.com/jpdb/docs.html) for more d
 * 0.0.3 - Uploaded related Screenshots
 
 ## Screenshots
+
+![Dashboard](Screenshots/Dashboard.jpg?raw=true)
+![index](Screenshots/Indexform.jpg?raw=true)
+![Dashboard](Screenshots/Data_in_DB.jpg?raw=true)
